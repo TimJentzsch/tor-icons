@@ -8,31 +8,31 @@
     }
 
     .shade-1 {
-      fill: hsl(23, 80%, 65%);
+      fill: hsl(23, 90%, 55%);
     }
 
     .shade-2 {
-      fill: hsl(23, 80%, 60%);
+      fill: hsl(23, 90%, 50%);
     }
 
     .shade-3 {
-      fill: hsl(23, 80%, 55%);
+      fill: hsl(23, 90%, 45%);
     }
   </style>
   <!-- Outer Rectangles -->
-  <polygon class="shade-3" points="50.0,80.0 75.981,65.0 85.981,82.321 60.0,97.321" />
-  <polygon class="shade-3" points="75.981,65.0 75.981,35.0 95.981,35.0 95.981,65.0" />
-  <polygon class="shade-3" points="75.981,35.0 50.0,20.0 60.0,2.679 85.981,17.679" />
-  <polygon class="shade-3" points="50.0,20.0 24.019,35.0 14.019,17.679 40.0,2.679" />
-  <polygon class="shade-3" points="24.019,35.0 24.019,65.0 4.019,65.0 4.019,35.0" />
-  <polygon class="shade-3" points="24.019,65.0 50.0,80.0 40.0,97.321 14.019,82.321" />
+  <polygon class="shade-2" points="50.0,80.0 75.981,65.0 85.981,82.321 60.0,97.321" />
+  <polygon class="shade-2" points="75.981,65.0 75.981,35.0 95.981,35.0 95.981,65.0" />
+  <polygon class="shade-2" points="75.981,35.0 50.0,20.0 60.0,2.679 85.981,17.679" />
+  <polygon class="shade-2" points="50.0,20.0 24.019,35.0 14.019,17.679 40.0,2.679" />
+  <polygon class="shade-2" points="24.019,35.0 24.019,65.0 4.019,65.0 4.019,35.0" />
+  <polygon class="shade-2" points="24.019,65.0 50.0,80.0 40.0,97.321 14.019,82.321" />
   <!-- Outer Triangles -->
-  <polygon class="shade-1" points="50.0,80.0 60.0,97.321 40.0,97.321" />
-  <polygon class="shade-1" points="75.981,65.0 95.981,65.0 85.981,82.321" />
-  <polygon class="shade-1" points="75.981,35.0 85.981,17.679 95.981,35.0" />
-  <polygon class="shade-1" points="50.0,20.0 40.0,2.679 60.0,2.679" />
-  <polygon class="shade-1" points="24.019,35.0 4.019,35.0 14.019,17.679" />
-  <polygon class="shade-1" points="24.019,65.0 14.019,82.321 4.019,65.0" />
+  <polygon class="shade-3" points="50.0,80.0 60.0,97.321 40.0,97.321" />
+  <polygon class="shade-3" points="75.981,65.0 95.981,65.0 85.981,82.321" />
+  <polygon class="shade-3" points="75.981,35.0 85.981,17.679 95.981,35.0" />
+  <polygon class="shade-3" points="50.0,20.0 40.0,2.679 60.0,2.679" />
+  <polygon class="shade-3" points="24.019,35.0 4.019,35.0 14.019,17.679" />
+  <polygon class="shade-3" points="24.019,65.0 14.019,82.321 4.019,65.0" />
   <!-- Inner Hexagon -->
-  <polygon class="shade-2" points="50.0,80.0 75.981,65.0 75.981,35.0 50.0,20.0 24.019,35.0 24.019,65.0" />
+  <polygon class="shade-1" points="50.0,80.0 75.981,65.0 75.981,35.0 50.0,20.0 24.019,35.0 24.019,65.0" />
 </svg>
