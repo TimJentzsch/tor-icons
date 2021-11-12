@@ -3,11 +3,13 @@
     .shade-1 {
       fill: hsl(192, 100%, 85%);
     }
+
     .shade-2 {
       fill: hsl(192, 100%, 78%);
     }
+
     .shade-3 {
-      fill: hsl(192, 100%, 75%)
+      fill: hsl(192, 100%, 75%);
     }
   </style>
   <!-- Bottom -->
