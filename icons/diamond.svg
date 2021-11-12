@@ -17,7 +17,7 @@
   <path class="shade-2" d="M0,30 m33.333,0 l33.333,0 L50,90 Z" />
   <path class="shade-3" d="M0,30 m33.333,0 m33.333,0 l33.333,0 L50,90 Z" />
   <!-- Top -->
-  <path class="shade-1" d="M0,30 l16.666,-20, L33.333,30 Z" />
+  <path class="shade-1" d="M0,30 l16.666,-20 L33.333,30 Z" />
   <path class="shade-3" d="M0,30 m16.666,-20 L50,10 L33.333,30 Z" />
   <path class="shade-1" d="M0,30 m33.333,0 L50,10 l16.666,20 Z" />
   <path class="shade-3" d="M50,10 l16.666,20 l16.666,-20 Z" />
