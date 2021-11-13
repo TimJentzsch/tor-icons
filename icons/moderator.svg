@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <style>
+    * {
+      stroke: black;
+      stroke-width: 1.5;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+
+      fill: #75d377;
+    }
+  </style>
+  <path d="M50,0 Q75,15,90,15 L90,65 Q75,90,50,100 Q25,90,10,65 L10,15 Q25,15,50,0 Z" />
+</svg>
