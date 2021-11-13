@@ -23,3 +23,10 @@ This repository includes several icons related to r/TranscribersOfReddit.
 - Sapphire
 
   ![Sapphire icon](icons/sapphire.svg)
+
+
+## Others
+
+- Moderator
+
+  ![Moderator icon](icons/moderator.svg)
