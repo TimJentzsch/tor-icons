@@ -15,3 +15,11 @@ This repository includes several icons related to r/TranscribersOfReddit.
 - Topaz
 
   ![Topaz icon](icons/topaz.svg)
+
+- Jade
+
+  ![Jade icon](icons/jade.svg)
+
+- Sapphire
+
+  ![Sapphire icon](icons/sapphire.svg)
